@@ -1,1 +1,1 @@
-# Ausgaben Ein- und Ausgabe-Programm (Konsolen App)
+# Ein- und Ausgabe-Programm (Konsolen App)
