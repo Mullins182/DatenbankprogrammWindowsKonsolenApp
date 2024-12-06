@@ -28,7 +28,7 @@ void chooseCategory(string version)
 	bool goBack = 0;
 	string cat;
 		
-	readData.open(dataRead);									// Initialisieren der Daten für Datei Lese- und Schreiboperationen
+	readData.open(dataRead);										// Initialisieren der Daten für Datei Lese- und Schreiboperationen
 
 	while (!readData)
 	{
